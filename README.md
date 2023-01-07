@@ -24,9 +24,7 @@ Skills: MONGODB / EXPRESS / NODE / REACT / JS / CSS /HTML
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nafis-Iqbal2k21)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nafis-Iqbal2k21&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nafis-Iqbal2k21)  
-
+ 
 ![GitHub metrics](https://metrics.lecoq.io/Nafis-Iqbal2k21)  
 
 
