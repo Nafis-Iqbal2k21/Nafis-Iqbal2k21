@@ -2,7 +2,7 @@
 #### I am a MERN Stack Web Developer
 ![I am a MERN Stack Web Developer](https://github.com/Nafis-Iqbal2k21/Nafis-Iqbal2k21/blob/main/Github-Banner.jpg)
 
-I am a MERN Stack Web Developer.  I can develop a full client side web application. I can develop single page web application. Generally I develop a site from Zero. Some times I work as a web designer. Generally I also use jQuery for design a website.
+I am a MERN Stack Web Developer.  I can develop a full client side web application. I can develop single page web application. Generally I develop a site from Zero. Some times I work as a web designer. Generally I also use jQuery for designing a website.
 
 Skills: MONGODB / EXPRESS / NODE / REACT / JS / CSS /HTML
 
